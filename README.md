@@ -58,9 +58,6 @@ If you would like to contribute to this project, please follow these steps:
 3. Make your changes and submit a pull request.
 
 
-## License
-This project is licensed under the MIT License.
-
 Happy recruiting with Gemini Pro ATS!
 "# Resume-Application-Tracking-System-with-Google-Gemini-Pro" 
 "# Resume-Application-Tracking-System-with-Google-Gemini-Pro" 
