@@ -3,6 +3,7 @@
 Welcome to the Gemini Pro Applicant Tracking System (ATS)! This system is developed using the powerful Gemini Pro model to streamline the hiring process by analyzing job descriptions and resumes. It provides valuable insights such as job description match, missing keywords, and profile summary.
 
 ## Demo of the project
+https://github.com/Akash-oops/Resume-Application-Tracking-System-with-Google-Gemini-Pro
 
 ## Features
 - **Job Description Match:** The system evaluates how well a candidate's resume matches the provided job description, helping recruiters quickly identify suitable candidates.
@@ -18,7 +19,7 @@ Welcome to the Gemini Pro Applicant Tracking System (ATS)! This system is develo
 ## Installation
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/Akash-oops/Resume-Application-Tracking-System-with-Google-Gemini-Pro
 ```
 
 2. Install dependencies:
@@ -57,7 +58,5 @@ If you would like to contribute to this project, please follow these steps:
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and submit a pull request.
 
-
 Happy recruiting with Gemini Pro ATS!
-"# Resume-Application-Tracking-System-with-Google-Gemini-Pro" 
 "# Resume-Application-Tracking-System-with-Google-Gemini-Pro" 
