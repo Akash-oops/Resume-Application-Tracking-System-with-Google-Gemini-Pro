@@ -8,7 +8,7 @@ import json
 
 load_dotenv() ## load all our environment variables
 
-genai.configure(api_key=os.getenv("AIzaSyDDCHjyX0kEo1I-CLwKGSlNFuAp1B1fRmg"))
+genai.configure(api_key=os.getenv(""))
 
 def get_gemini_repsonse(input):
     model=genai.GenerativeModel('gemini-pro')
@@ -51,7 +51,7 @@ with st.sidebar:
     - [Streamlit](https://streamlit.io/)
     - [Gemini Pro](https://deepmind.google/technologies/gemini/#introduction)
     - [makersuit API Key](https://makersuite.google.com/)
-    - [Github](https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro) Repository
+    - [Github](https://github.com/Akash-oops/Resume-Application-Tracking-System-with-Google-Gemini-Pro) Repository
                 
     """)
     
