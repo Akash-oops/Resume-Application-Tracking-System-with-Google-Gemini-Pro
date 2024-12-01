@@ -43,7 +43,7 @@ I want the response as per below structure
 ## streamlit app
 
 with st.sidebar:
-    st.title("Smart ATS for Resumes")
+    st.title("ATS for Resumes")
     st.subheader("About")
     st.write("This sophisticated ATS project, developed with Gemini Pro and Streamlit, seamlessly incorporates advanced features including resume match percentage, keyword analysis to identify missing criteria, and the generation of comprehensive profile summaries, enhancing the efficiency and precision of the candidate evaluation process for discerning talent acquisition professionals.")
     
@@ -61,7 +61,13 @@ with st.sidebar:
     
 
 
-st.title("Resume Application Tracking System")
+#st.title("Resume Application Tracking System")
+st.markdown(
+    """
+    <h1 style='text-align: center; margin-bottom: 0px; font-size: 36px;'>Resume Application Tracking System</h1>
+    """,
+    unsafe_allow_html=True
+)
 st.text("Improve Your Resume ATS")
 jd=st.text_area("Paste the Job Description")
 uploaded_file=st.file_uploader("Upload Your Resume",type="pdf",help="Please uplaod the pdf")
